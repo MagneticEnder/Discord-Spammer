@@ -5,6 +5,8 @@
 ### Dependencies:
 ```pyautogui```
 <br />```time```
+<br />
+<br /> Time should already be included with Python 3.x installations. You can use ```pip install pyautogui``` & ```pip install time``` if it is not already installed.
 ##
 This script spams whatever message you type in it, along with ```@everyone``` and ```@here```.
 ##
