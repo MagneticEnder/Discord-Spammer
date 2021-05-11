@@ -9,7 +9,7 @@ tag2 = ' @here'
 
 # This part of the script grabs your inputs.
 msg = input("Enter the message you want to spam...")
-n = input("Enter the amount of times to spam the message")
+n = input("Enter the amount of times to spam the message...")
 interval = input("Enter the delay in seconds between each message...")
 print("")
 time.sleep(1)
