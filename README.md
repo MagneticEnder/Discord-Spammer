@@ -10,3 +10,8 @@
 ##
 This script spams whatever message you type in it, along with ```@everyone``` and ```@here```.
 ##
+### How to Use:
+Make sure you have the required dependencies.
+
+https://user-images.githubusercontent.com/78359918/117828311-b12afb80-b23f-11eb-8d5a-0871b0d4a4f0.mp4
+#
