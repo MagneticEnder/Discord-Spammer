@@ -27,4 +27,4 @@ for i in range(0, int(n)):
     pyautogui.typewrite(tag1 + msg + tag2 + '\n')
     time.sleep(int(interval))
 
-input("Completed the specified task. Press any key to exit.")
+input("Completed the specified task. Press the enter key to exit.")
