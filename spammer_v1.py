@@ -4,8 +4,8 @@ import time
 
 # These are the tags that will be automatically spammed.
 # You can add as many as you want, just be sure to include them later.
-tag1 = '@everyone'
-tag2 = '@here'
+tag1 = '@everyone '
+tag2 = ' @here'
 
 # This part of the script grabs your inputs.
 msg = input("Enter the message you want to spam...")
